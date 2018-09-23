@@ -22,7 +22,6 @@ Further info is in the GitHub documentation.
 
 #include "GlobalDefinitions.h"
 #include "RC_IO.h"
-#include "ButtonClass.cpp"
 #include "JoystickClass.cpp"
 
 #include <EEPROM.h>
